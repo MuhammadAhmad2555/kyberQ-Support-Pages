@@ -599,10 +599,6 @@ a:hover {
     grid-template-columns: 1fr;
   }
 
-  .hero-visual {
-    order: -1;
-  }
-
   .split-feature.reverse .split-content,
   .split-feature.reverse .split-visual {
     order: unset;
